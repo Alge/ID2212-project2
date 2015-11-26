@@ -2,5 +2,7 @@
  * Created by martin on 2015-11-26.
  */
 public class Client {
-    //asd
+    public static void main(String [] args){
+
+    }
 }
